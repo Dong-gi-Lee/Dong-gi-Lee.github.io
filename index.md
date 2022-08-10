@@ -7,34 +7,35 @@ Researches on machine learning algorithms and those applications in various fiel
 ## Research Interests
 - <b>Graph-based Machine Learning</b>  
   - <b>Graph Representation:</b> Graph Integration, Graph Comparison, Graph Embedding
-  - <b>Semi-Supervised Learning:</b> Label Propagation, Optimization
+  - <b>Graph-based Semi-Supervised Learning:</b> Label Propagation, Node Classification, Link Prediction
   - <b>Domain Adaptation:</b> Transfer Learning, Heterogeneous Feature Adaptation, Multi-Modal Data, Longitudinal Data
 
 - <b>Application Fields</b>
   - <b>BioMedical Informatics:</b> Disease Progression, Biomarker Identification, Drug Repositioning, Personalized Medicine
   - <b>Text Mining:</b> Sentiment Analysis, Customer Review Analysis
-  - <b>Finance:</b> Enterprise Evaluation Model, Enterprise Profiling
-
+  
 
 ---
 
-## Experience
-- <b>Post-doctoral Researcher</b> (September 2022 - Present)
+## Work Experience
+- <b>Research Assistant Professor</b> (March 2021 - August 2022)
   - Department of Psychiatry, Ajou University School of Medicine, Suwon, Korea
-
+- <b>Course Instructor</b> (March 2020 - February 2021)
+  - Department of Industrial Engineering, Ajou University, Suwon, Korea
 
 ---
 
 ## Education
 
-- <b>Ajou University</b> (March 2009 - August 2022)
+- <b>Ajou University</b> (March 2007 - February 2021)
 
-  - <b>Ph.D.</b> in Artificial Intelligence (March 2016 - August 2022)
-    - Thesis: Graph Domain Adaptation for Semi-Supervied Learning
+  - <b>Ph.D.</b> in Artificial Intelligence (September 2016 - Feb 2022)
+    - Thesis: Machine Learning based Inference on Causality in Graphs
     - Advised by Professor Hyunjung Shin [[Lab](http://alphaminers.ai/)]
-  - <b>B.S.</b> in Industrial Engineering (March 2009 - February 2016)
-
-- <b>Daegu Science High School</b> (March 2006 - February 2009)
+  - <b>M.S.</b> in Industrial Engineering (September 2014 - August 2016)
+    - Thesis: Text Mining for Causal Relation Extraction
+    - Advised by Professor Hyunjung Shin [[Lab](http://alphaminers.ai/)]
+  - <b>B.S.</b> in Industrial Engineering (March 2007 - August 2014)
 
 
 ---
